@@ -1,4 +1,25 @@
-# B-Quoc-Huy
+<h1 align="center">Hi 👋, I'm Huy</h1>
+
+<p align="center">
+AI App Builder • Web3 Explorer • Vietnam 🇻🇳
+</p>
+
+<p align="center">
+
+<a href="https://twitter.com/mhforever9878">
+<img src="https://img.shields.io/badge/FOLLOW-TWITTER-111?style=for-the-badge&logo=twitter">
+</a>
+
+<a href="https://www.linkedin.com/in/huy-bui-689805347/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:huybui2305@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
 # About me
 
 - 🎓 Computer Science graduate (Vietnam)
@@ -67,7 +88,7 @@
 <img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram">
 </a>
 
-<a href="huybui2305@gmail.com">
+<a href="mailto:huybui2305@gmail.com">
 <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail">
 </a>
 
